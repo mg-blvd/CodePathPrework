@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Calculator*
 
 **Calculator** is a tip calculator application for iOS.
 
